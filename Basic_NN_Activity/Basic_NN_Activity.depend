@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1505087795 source:c:\users\michael\desktop\cpp_projects\basic_nn_activity\main.cpp
+	<iostream>
+	"Neural_Network.h"
+
+1504951479 source:c:\users\michael\desktop\cpp_projects\basic_nn_activity\src\neural_network.cpp
+	"Neural_Network.h"
+
+1505459822 c:\users\michael\desktop\cpp_projects\basic_nn_activity\include\neural_network.h
+	"vector"
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"math.h"
+
